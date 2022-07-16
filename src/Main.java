@@ -44,11 +44,11 @@ public class Main {
     //Задача4
     public static void task4(){
         int deliveryDistance = 101;
-        int deliveryTime = 1+((20 + deliveryDistance) / 40);
+        int deliveryTime = 1+(20 + deliveryDistance) / 40;
             System.out.println("Доставка в течение " + deliveryTime + " суток");
 
     }
-    //Задача4
+    //Задача5
     public static void task5(){
         int monthNumber = 5;
         switch (monthNumber) {
